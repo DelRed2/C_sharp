@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionPlotter", "FunctionPlotter\FunctionPlotter.csproj", "{46A2A430-6107-457C-B7E1-C3A905C7327A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackCalculator", "StackCalculator\StackCalculator.csproj", "{2016588E-3510-4BCF-A3F6-C239A4DDA48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A2A430-6107-457C-B7E1-C3A905C7327A}.Debug|x86.ActiveCfg = Debug|x86
+		{46A2A430-6107-457C-B7E1-C3A905C7327A}.Debug|x86.Build.0 = Debug|x86
+		{46A2A430-6107-457C-B7E1-C3A905C7327A}.Release|x86.ActiveCfg = Release|x86
+		{46A2A430-6107-457C-B7E1-C3A905C7327A}.Release|x86.Build.0 = Release|x86
+		{2016588E-3510-4BCF-A3F6-C239A4DDA48C}.Debug|x86.ActiveCfg = Debug|x86
+		{2016588E-3510-4BCF-A3F6-C239A4DDA48C}.Debug|x86.Build.0 = Debug|x86
+		{2016588E-3510-4BCF-A3F6-C239A4DDA48C}.Release|x86.ActiveCfg = Release|x86
+		{2016588E-3510-4BCF-A3F6-C239A4DDA48C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
